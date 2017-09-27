@@ -1,0 +1,23 @@
+Package: Reta
+Version: 0.99.0
+Date: 2017-09-26
+Title: Graphical model search using the entropy interactions
+Authors@R: c(person( "Joe", "Whittaker", email = "joe.whittaker@lancaster.ac.uk",
+        role = c("aut", "cre")), person( "Sylvain", "Gubian", role =
+        "aut")
+Maintainer: sylvain.gubian <sylvain.gubian@pmi.com>
+Description: package to execute graphical model search
+License: GPL-2
+LazyLoad: yes
+LazyData: true
+Depends: R (>= 3.0.0), digest (>= 0.6.4), RcppEigen (>= 0.3.2.8.1),
+        Rcpp (>= 0.9.4)
+Imports: methods
+LinkingTo: Rcpp, RcppEigen
+Suggests: graph (>= 1.38.2), Rgraphviz (>= 2.4.1), roxygen2, testthat,
+        MASS, Matrix, mvtnorm, sfsmisc
+Packaged: 2017-09-27 08:13:03 UTC; whittake
+Collate: 'aCatDat.R' 'aCorMat.R' 'bInitData.R' 'cAdjMat.R' 'dHDlis.R'
+        'eTriple.R' 'fUpdater.R' 'wine.R' 'xamples.R' 'xtrafns.R'
+RoxygenNote: 5.0.1
+NeedsCompilation: yes
