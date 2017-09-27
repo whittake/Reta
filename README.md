@@ -1,2 +1,2 @@
 # Reta
-GM search using the entropy interactions
+Graphical Model search using the entropy interactions
