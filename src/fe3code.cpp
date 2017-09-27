@@ -1,8 +1,11 @@
-
-
-//==================================================================
-//  #include "/home/whittake/prog/cpp/fe3code.h"   
-//include "/home/whittake/research/13fegm/14gFinder/toyRCpkg/src/fe3code.h"
+// ############################################################################
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+// GNU General Public License for more details.
+// 
+// Author: Joe Whittaker 
+// ############################################################################
 #include "fe3code.h"
 //==================================================================
 
